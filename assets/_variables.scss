@@ -1,0 +1,18 @@
+$breakpoint-mobile: 600px;
+$breakpoint-tablet: 768px;
+$breakpoint-laptop: 992px;
+$breakpoint-desktop: 1200px;
+
+$border-radius-global: 2px;
+
+$font-color-default: hsl(0, 0%, 60%);
+$font-color-danger: hsl(0, 100%, 60%);
+
+$background-color-default: hsl(0, 0%, 95%);
+$background-color-blur: hsla(0, 0%, 50%, 0.3);
+$background-color-dark: hsl(0, 0%, 15%);
+
+$btn-normal-background: hsl(0, 0%, 90%);
+$btn-confirm-background: hsl(240, 70%, 60%);
+$btn-special-background: hsl(200, 50%, 40%);
+$btn-danger-background: hsl(0, 100%, 60%);

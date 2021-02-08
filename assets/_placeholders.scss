@@ -1,0 +1,19 @@
+@import './variables';
+
+%border-default {
+  box-shadow: 0 0 0 1px hsl(0, 0%, 90%);
+}
+
+%div-shadow {
+  box-shadow: 0px 3px 6px 0 hsla(0, 0%, 0%, 0.3);
+}
+
+%noselect {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
