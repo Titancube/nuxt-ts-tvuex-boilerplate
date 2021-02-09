@@ -1,4 +1,10 @@
-# gliesebrowser-frontpage
+# nuxt-ts-tvuex-boilerplate
+
+## Dependencies
+
+- sass & sass-loader
+- [nuxt-typed-vuex](https://github.com/danielroe/typed-vuex)
+- [nuxt-property-decorator](https://github.com/nuxt-community/nuxt-property-decorator)
 
 ## Build Setup
 
@@ -16,5 +22,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
